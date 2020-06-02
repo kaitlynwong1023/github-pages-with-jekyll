@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The purpose of this webiste is to provide a brief description of myself. 
 
 # social links
-instgram_username: kaitlynwong1023
+twitter_username: I don't have one
 github_username:  kaitlynwong1023 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
