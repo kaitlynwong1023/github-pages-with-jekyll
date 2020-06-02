@@ -1,5 +1,5 @@
 ---
-title: "Autobiography"
+title: "Click to read more about my life on this first post"
 date: 2020-06-02
 ---
 
