@@ -1,3 +1,8 @@
+---
+title: "Autobiography"
+date: 2020-06-02
+---
+
 Brag Sheet:
 
 Hobbies:
