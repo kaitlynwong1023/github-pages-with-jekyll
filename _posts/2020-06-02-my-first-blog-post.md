@@ -1,5 +1,5 @@
 ---
-title: "Autobiography"
+title: "Learn More"
 date: 2020-06-02
 ---
 
